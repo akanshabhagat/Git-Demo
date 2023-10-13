@@ -1,2 +1,3 @@
 Hello solid
 Changed in solid
+change after stash
