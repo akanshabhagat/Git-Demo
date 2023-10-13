@@ -3,10 +3,12 @@ Changed in solid
 change after stash
 Changed after account
 changed after branch
-<<<<<<< HEAD
-=======
+
 
 changed after branchh
->>>>>>> branch1
+
 
 changed after new 
+
+changed after merge branch
+
