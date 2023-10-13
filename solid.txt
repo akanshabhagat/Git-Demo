@@ -3,3 +3,4 @@ Changed in solid
 change after stash
 Changed after account
 changed after branch
+changed after merge branch
